@@ -1,1 +1,1 @@
-To work in a professional environment where I can effectively utilize my knowledge, skills which provides me an opportunity as a fresh graduate to contribute in the development of organization.
+Aspiring Software Engineer with a strong grasp of Front-End/UI development and web fundamentals. Skilled in JavaScript, React, jQuery, Node, Express and MongoDB. A Strong engineering professional with a Master of Computer Applications (M.C.A.) focused on Information Technology from the University of Mumbai.
